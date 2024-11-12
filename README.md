@@ -9,7 +9,7 @@ the _ego_, _identity_ and _close relationships_ of individuals.
 This project is currently under exploratory research and aims to validate its feasibility. The penetration point will be focused on in further research.  
   
 ## Latest Updates  
-- 06/Nov/2024, The draft version of Questionnaires _Gender-Sex Questionnaire_ and _Close Relationships Gender Preference Questionnaire_ are finished.
+- 06/Nov/2024, The draft version of Questionnaires _[Gender-Sex Questionnaire](Pre-Research/Questionnaires/GSQ-2024-AlphaVersion.jpg)_ and _Close Relationships Gender Preference Questionnaire_ are finished.
 
 ## Cite this Project  
 > Notice: Citing this project is currently not recommended as it is NOT FINISHED yet. It is suggested to contact the author first if you want to cite or
